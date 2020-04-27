@@ -3,3 +3,9 @@
 This is sample file created by Amar Patil.
 
 
+
+
+This is day 1, stage 1
+
+
+I have modified the file.
