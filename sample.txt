@@ -6,3 +6,7 @@ This is sample file created by Amar Patil.
 
 
 Welcome to git.
+
+
+
+Git restore
